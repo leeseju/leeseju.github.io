@@ -42,7 +42,7 @@ Work experience
 
 * Winter 2011 ~ Spring 2015 : Investigator
   * Korea Fair Trade Competition(KFTC), Deagu regional office
-  * Duties included: Investigating unfair trade, unfair subcontracting
+  * Duties included: Investigating unfair trade, unfair subcontracting conducts
   
 Skills
 ======
@@ -50,7 +50,7 @@ Skills
 * Competition Law and Economics
   * Economic analysis of antitrust cases(monopoly, merger)
   * Competition law(Monopoly Regulation and Fair Trade Act)
-  * Market study(Korean E-commerce)
+  * Market study(Korean E-commerce sector)
 
 Publications
 ======
