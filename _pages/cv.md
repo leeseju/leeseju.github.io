@@ -11,35 +11,50 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Public Policy, Korea Development Instititute School of Public Policy and Management, 2024
+* B.S. in Economics, Sungkyunkwan University, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024 ~ Present : Deputy Director
+  * KFTC, Economic Analysis Division
+  * Duties included: Economic Analysis of antitrust case, Market Study
+ 
+* Spring 2023 ~ Spring 2024 : Investigator
+  * KFTC, Competition Policy Division
+  * Duties included: Administrative task regarding Competition policy
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2020 ~ Spring 2022 : Investigator
+  * KFTC, Human Resource Department
+  * Duties included: Administrative task regarding HR
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2020 ~ Spring 2022 : Investigator
+  * KFTC, Public Policy Relation Division
+  * Duties included: Administrative task regarding PR
+
+* Spring 2019 ~ Spring 2020 : Investigator
+  * KFTC, Consumer Policy Division
+  * Duties included: Administrative task regarding Consumer policy
+    
+* Spring 2017 ~ Spring 2019 : Investigator
+  * KFTC, Public Policy Relations Division
+  * Duties included: Administrative task regarding PR
+
+* Spring 2015 ~ Spring 2017 : Investigator
+  * KFTC, E-commerce Consumer Protection Division
+  * Duties included: Investigating unfair trade in E-commerce sector
+
+* Winter 2011: Investigator
+  * Korea Fair Trade Competition(KFTC), Deagu regional office
+  * Duties included: Investigating unfair trade, unfair subcontracting
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data analysis using Python, Stata
+* Competition Law and Economics
+  * Economic analysis of antitrust cases(monopoly, merger)
+  * Competition law(Monopoly Regulation and Fair Trade Act)
+  * Market study(Korean E-commerce)
 
 Publications
 ======
