@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Public Policy, Korea Development Instititute School of Public Policy and Management, 2024
+* M.S. in Public Policy, KDI School of Public Policy and Management, 2024
 * B.S. in Economics, Sungkyunkwan University, 2014
 
 Work experience
@@ -28,10 +28,6 @@ Work experience
   * KFTC, Human Resource Department
   * Duties included: Administrative task regarding HR
 
-* Spring 2020 ~ Spring 2022 : Investigator
-  * KFTC, Public Policy Relation Division
-  * Duties included: Administrative task regarding PR
-
 * Spring 2019 ~ Spring 2020 : Investigator
   * KFTC, Consumer Policy Division
   * Duties included: Administrative task regarding Consumer policy
@@ -44,7 +40,7 @@ Work experience
   * KFTC, E-commerce Consumer Protection Division
   * Duties included: Investigating unfair trade in E-commerce sector
 
-* Winter 2011: Investigator
+* Winter 2011 ~ Spring 2015 : Investigator
   * Korea Fair Trade Competition(KFTC), Deagu regional office
   * Duties included: Investigating unfair trade, unfair subcontracting
   
