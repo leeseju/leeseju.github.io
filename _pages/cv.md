@@ -23,10 +23,14 @@ Work experience
 * Spring 2023 ~ Spring 2024 : Investigator
   * KFTC, Competition Policy Division
   * Duties included: Administrative task regarding Competition policy
+ 
+* Spring 2022 ~ Spring 2023 : Investigator
+  * KFTC, Human Resource Division
+  * Duties included: Administrative task regarding HR
 
 * Spring 2020 ~ Spring 2022 : Investigator
-  * KFTC, Human Resource Department
-  * Duties included: Administrative task regarding HR
+  * KFTC, Knowledge Industry Monopoly Investigation Division
+  * Duties included: Investigating monopoly, unfair trade
 
 * Spring 2019 ~ Spring 2020 : Investigator
   * KFTC, Consumer Policy Division
