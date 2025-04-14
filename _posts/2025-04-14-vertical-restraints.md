@@ -1,116 +1,104 @@
 ---
-title: "Vertical Restraints and the Design of Efficient Supply Contracts"
+title: "Vertical Restraints and Supply Contracts: RPM, Two-Part Tariffs, and Uncertainty"
 date: 2025-04-14
-author: lee Carl
-tags: [Industrial Organization, Vertical Restraints, RPM, Two-Part Tariff, Rey and Tirole, Economics]
+author: lee Seju
+tags: [Economics, Vertical Restraints, RPM, Two-Part Tariff, Rey and Tirole]
 layout: post
 ---
 
-# 🎙️ Vertical Restraints and the Design of Efficient Supply Contracts
+# Vertical Restraints and Supply Contracts  
+### RPM, Two-Part Tariffs, and Dealing with Uncertainty
 
-Welcome to this written adaptation of a podcast episode from *Market Structures in Focus*.  
-In this post, we explore **vertical restraints**—contractual mechanisms like **Resale Price Maintenance (RPM)** and **Two-Part Tariffs**—and how they are used strategically to address uncertainty in supply chains. We’ll also dive into a key theoretical framework by **Rey and Tirole (1986)**.
+In this post, I’d like to share key points from a podcast episode I recently prepared.  
+It covers **vertical restraints** in supply chains—especially **resale price maintenance (RPM)** and **two-part tariffs**—and how these strategies help firms respond to **uncertainty** in demand and cost.  
+We’ll also look at a well-known economic model from **Rey and Tirole (1986)** that helps explain when each type of contract might work best.
 
 ---
 
-## 1. Introduction to Vertical Restraints
+## 1. What Are Vertical Restraints?
 
-Vertical restraints refer to contract terms imposed by suppliers on downstream firms. These include:
+Vertical restraints are agreements between firms at different levels of the supply chain—like manufacturers and retailers. These can include:
 
-- Exclusive dealing
-- Territorial restrictions
-- **Price controls** like RPM
+- Resale price restrictions (RPM)
+- Exclusive territories
+- Quantity or marketing conditions
 
-Our focus today is on **RPM and two-part tariffs**, and how they relate to information asymmetry and uncertainty in markets.
+Our focus here is on two pricing-related tools: **RPM** and **two-part pricing**.
 
 ---
 
 ## 2. Resale Price Maintenance (RPM)
 
-**RPM** occurs when a supplier sets a **minimum** or **fixed resale price** for its downstream retailer.
+**Resale price maintenance** means the manufacturer sets a **minimum price** (or sometimes a fixed price) that the retailer must charge customers.
 
-### 📜 Legal Evolution
+### A bit of legal background:
+- In the U.S., **RPM was considered automatically illegal** for nearly a century, starting with *Dr. Miles (1911)*.
+- But in *Leegin v. PSKS (2007)*, the Supreme Court decided that **RPM should be judged case by case**, using what’s called the *rule of reason*.
 
-- **Dr. Miles v. Park & Sons (1911)**: RPM deemed *per se illegal*  
-- **Leegin v. PSKS (2007)**: RPM to be judged under **rule of reason**
+### Why use RPM?
+- It can help prevent **free-riding**—for example, when one store provides service but others undercut them on price.
+- It can protect **brand image** and encourage **better service** from retailers.
 
-### 💡 Economic Rationale
-
-RPM can:
-- Prevent **free-riding** among retailers
-- Encourage **service provision**
-- Help maintain **brand positioning**
-
-However, RPM imposes **price rigidity**, limiting retailers’ ability to respond to **demand shocks**.
+But there’s a downside: **RPM makes prices rigid**. When demand drops, retailers can’t lower prices freely, even if that would help sell more.
 
 ---
 
-## 3. Two-Part Tariffs as an Alternative
+## 3. Two-Part Tariffs
 
-**Two-part tariffs** involve:
+A **two-part tariff** is a different kind of contract. The retailer pays:
 
-- A **fixed fee** for access to a product line  
-- A **low marginal wholesale price** per unit
+1. A **fixed fee** to get access to the product  
+2. A **low wholesale price** per unit
 
-This structure grants **pricing flexibility** to the retailer and shifts some risk onto them, especially useful under **cost uncertainty**.
+This way, the manufacturer gets some guaranteed revenue from the fixed fee, and the retailer keeps the ability to set the final price.
 
----
-
-## 4. The Rey & Tirole (1986) Framework
-
-> Rey and Tirole (1986), *The Logic of Vertical Restraints*, provide a foundational model on vertical contracts under asymmetric information.
-
-### 🔍 Their key insight:
-
-| Type of Uncertainty | Who Has Private Info | Optimal Contract |
-|---------------------|----------------------|------------------|
-| Demand uncertainty  | Retailer             | **RPM**          |
-| Cost uncertainty    | Retailer             | **Two-part tariff** |
-
-- Under demand uncertainty, **RPM** ensures brand control while leveraging the retailer’s local knowledge.
-- Under cost uncertainty, **two-part pricing** allows prices to reflect actual marginal costs.
+This system is helpful when **costs are uncertain** at the retail level. Retailers can adjust prices based on local conditions like rent or wages.
 
 ---
 
-## 5. Application: Fast Fashion Industry
+## 4. Rey & Tirole (1986): When to Use Which?
 
-**Fast fashion** (e.g., Zara, H&M) faces:
+Economists **Rey and Tirole (1986)** explained how different kinds of uncertainty call for different types of contracts.
 
-- **High demand volatility**
-- **Short product life cycles**
-- **Rapid turnover**
+| If this is uncertain... | And the retailer knows more about it... | Then the better contract is... |
+|-------------------------|------------------------------------------|-------------------------------|
+| **Demand**              | Yes                                      | **RPM**                       |
+| **Costs**               | Yes                                      | **Two-part tariff**           |
 
-### In theory:
-- RPM could be justified to protect brand image
-
-### In practice:
-- **Flexibility is crucial**  
-- Firms rely on:
-  - **Real-time inventory updates**
-  - **Dynamic pricing**
-  - **Hybrid contracts** (e.g., RPM + rebates or risk-sharing)
+- When **demand is uncertain**, RPM lets the manufacturer set the price while the retailer decides how much to sell, based on what they know.
+- When **costs are uncertain**, it's better to let the retailer adjust prices freely. That’s what two-part pricing allows.
 
 ---
 
-## 6. Conclusion
+## 5. What About Fast Fashion?
 
-Vertical restraints are **context-dependent tools**. According to Rey & Tirole:
+Let’s take **fast fashion** as an example—brands like Zara or H&M.
 
-- Use **RPM** when **demand is uncertain** and **service incentives** matter
-- Use **two-part tariffs** when **costs are unpredictable** and **pricing flexibility** is essential
+They face very **uncertain demand**, and trends change fast.  
+At first glance, RPM could be helpful—it keeps the brand image consistent.
 
-In reality, firms often **combine mechanisms** to balance control and efficiency.
+But in real life, **retailers need flexibility**. When a product doesn’t sell, they need to **lower prices quickly**. RPM can get in the way of that.
 
-> 🎧 This article is adapted from a 10-minute podcast episode on vertical restraints in economics.
+That’s why many firms in fast fashion use **more flexible contracts**, sometimes mixing tools like:
 
----
-
-## 📚 Further Reading
-
-- Rey, P. & Tirole, J. (1986). *The Logic of Vertical Restraints*. American Economic Review.
-- Klein, B. & Murphy, K. (1988). *Vertical Restraints as Contractual Market Mechanisms*. Journal of Law and Economics.
-- Mathewson, G. & Winter, R. (1984). *An Economic Theory of Vertical Restraints*. RAND Journal of Economics.
+- RPM + rebates  
+- Two-part pricing + inventory support  
+- Dynamic pricing and real-time adjustments
 
 ---
 
-*Thanks for reading. If you found this useful, consider following the repository or subscribing to the podcast version.*
+## 6. Summary
+
+Vertical restraints like RPM and two-part tariffs are **not always good or bad**.  
+Their effects depend on the situation—how much uncertainty there is, and who has better information.
+
+**Rey and Tirole’s model** gives a clear idea:
+- If the retailer knows more about **demand**, RPM can help.
+- If the retailer knows more about **costs**, two-part pricing is more flexible and efficient.
+
+In real markets, firms often use **a combination of tools**, depending on the risks and goals they face.
+
+---
+
+Thanks for reading.  
+This post is based on
