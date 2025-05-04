@@ -1,9 +1,15 @@
 ---
 title: "Vertical Restraints and Supply Contracts: RPM, Two-Part Tariffs, and Uncertainty"
 date: 2025-04-14
-author: lee Seju
-tags: [Economics, Vertical Restraints, RPM, Two-Part Tariff, Rey and Tirole]
+author: "lee Seju"
+tags:
+  - Economics
+  - Vertical Restraints
+  - RPM
+  - Two-Part Tariff
+  - Rey and Tirole
 layout: post
+permalink: /posts/2025/04/vertical-restraints/
 ---
 
 # Vertical Restraints and Supply Contracts  
@@ -101,4 +107,4 @@ In real markets, firms often use **a combination of tools**, depending on the ri
 ---
 
 Thanks for reading.  
-This post is based on
+This post is based on a recent podcast script I wrote.
