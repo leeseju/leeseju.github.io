@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Seju Lee / Competition Law and Economics"
+title                    : "Seju Lee"
 title_separator          : "-"
 name                     : &name "Seju Lee"
 description              : &description "Explore Competition & Antitrust Issues"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Seju Lee"
   pronouns         : # example: "she/her"  
-  bio              : "This blog is a space where I share insights and organize my thoughts on various issues related to antitrust laws and economics. I explore topics such as competition policy, market studies, and platform economics, analyzing them from both legal and economic perspective."
+  bio              : "competition expert"
   location         : "Sejong, Korea"
   employer         : "Korea Fair Trade Commission(KFTC)"
   uri              : # URL
@@ -191,16 +191,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -214,9 +214,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""
@@ -231,8 +231,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -240,8 +240,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -249,8 +249,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
@@ -258,7 +258,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS
